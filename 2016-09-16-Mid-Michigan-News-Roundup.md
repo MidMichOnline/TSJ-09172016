@@ -1,6 +1,6 @@
 ---
 title: Mid Michigan News Roundup
-layout: chapter
+layout: post
 author: midmichiganonline
 permalink: /mid-michigan-news-roundup/
 source-id: 10hVd1Ce3PXliF0IEocekULdKhy-iEHOjeQgbkG0S3xc
