@@ -1,3 +1,3 @@
 # Contents
 
-* [19](_chapters/19.md)
+* [MidMichigan News Roundup](_chapters/19.md)
