@@ -1,1 +1,3 @@
-# TSJ-09172016
+# The Shepherd Journal
+
+## September 17, 2016
