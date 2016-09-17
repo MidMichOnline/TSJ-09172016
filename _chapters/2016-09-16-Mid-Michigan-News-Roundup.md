@@ -1,9 +1,9 @@
 ---
 title: Mid Michigan News Roundup
 layout: chapter
-author: midmichiganonline
-permalink: /mid-michigan-news-roundup/
-source-id: 10hVd1Ce3PXliF0IEocekULdKhy-iEHOjeQgbkG0S3xc
+author: 
+permalink: 
+source-id:
 published: true
 ---
 Mid Michigan News Roundup
